@@ -1,7 +1,7 @@
 # MOOCacademy
 
 
-Conditions préalables
+
 Version Ruby: 2.5.1
 
 
