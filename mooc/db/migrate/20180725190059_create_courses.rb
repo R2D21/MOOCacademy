@@ -1,3 +1,4 @@
+# Crée une table courses
 
 class CreateCourses < ActiveRecord::Migration[5.2]
   def change
